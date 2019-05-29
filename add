@@ -7,6 +7,6 @@ public static void main(String args[])
     int num1= sc.nextInt();
     int num2=sc.nextInt();
     int res=num1+num2;
-    System.out.println("The result is "+res);
+    System.out.println("The result after adding two numbers is "+res);
 }
 }
